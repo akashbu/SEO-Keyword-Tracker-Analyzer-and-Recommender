@@ -12,7 +12,7 @@ const Guide = () => {
   };
 
   // YouTube video ID extracted from the provided link
-  const videoId = 'o2ZZx2WN-N0';
+  const videoId = 'nQUrkYdWeWs';
 
   return (
     <div className="guide-container">

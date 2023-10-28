@@ -1,6 +1,6 @@
 import React from 'react';
 import { Nav, NavLink, Bars, NavMenu } from './NavbarElements';
-import logoImage from '../../image/logo.jpg';
+import logoImage from '../../image/logo.png';
 import { AppBar, Toolbar , IconButton,Typography, Stack, Button} from '@mui/material'
 import { createTheme } from '@mui/material/styles';
 
