@@ -12,7 +12,3 @@ npm start
 ```bash
 python server.py
 ```
-
-## Deployed link
-```bash
-```
